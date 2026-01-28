@@ -10,6 +10,7 @@ If you believe this list is missing something or has factually inaccurate info, 
 
 ## Table of Contents
 
+- [Survey](#survey)
 - [Image Retrieval](#image-retrieval)
 - [Camera Pose Regression](#camera-pose-regression)
 - [Feature Matching](#feature-matching)
@@ -18,6 +19,9 @@ If you believe this list is missing something or has factually inaccurate info, 
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
 
 
+## Survey
+
+- [2025 arXiv] A Guide to Structureless Visual Localization [[paper]](https://arxiv.org/abs/2504.17636)
 
 
 ## Image Retrieval
@@ -44,7 +48,10 @@ If you believe this list is missing something or has factually inaccurate info, 
 
 ## Camera Pose Regression
 
+- [2025 NeurIPS] Alligat0R: Pre-Training Through Co-Visibility Segmentation for Relative Camera Pose Regression [[paper]](https://arxiv.org/abs/2503.07561) [[code]](https://github.com/thibautloiseau/alligat0r)
 - [2025 CVPR] Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization [[paper]](https://arxiv.org/pdf/2412.08376) [[code]](https://github.com/ffrivera0/reloc3r)
+- [2025 CVPR] HyperPose: Hypernetwork-Infused Camera Pose Localization and an Extended Cambridge Landmarks Dataset [[paper]](https://arxiv.org/abs/2303.02610) [[code]](https://github.com/ronferens/hyperpose)
+- [2025 CVPR] Scene-agnostic Pose Regression for Visual Localization [[paper]](https://arxiv.org/pdf/2503.19543) [[code]](https://github.com/JunweiZheng93/SPR)
 - [2024 ECCV] SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments [[paper]](https://arxiv.org/pdf/2404.10527) [[code]](https://fraunhoferhhi.github.io/spvloc/)
 - [2024 ECCV] Learning Neural Volumetric Pose Features for Camera Localization [[paper]](https://arxiv.org/pdf/2403.12800)
 - [2024 CVPR] Map-Relative Pose Regression for Visual Re-Localization [[paper]](https://arxiv.org/pdf/2404.09884) [[code]](https://github.com/nianticlabs/marepo)
@@ -157,6 +164,7 @@ If you believe this list is missing something or has factually inaccurate info, 
 
 ## Camera Pose Optimization and Refinement
 
+- [2025 CVPR] Gaussian Splatting Feature Fields for Privacy-Preserving Visual Localization [[paper]](https://arxiv.org/abs/2507.23569) 
 - [2025 ICLR] GS-CPR: Efficient Camera Pose Refinement via 3D Gaussian Splatting [[paper]](https://openreview.net/forum?id=mP7uV59iJM) [[code]](https://github.com/XRIM-Lab/GS-CPR)
 - [2024 ECCV] Robust Incremental Structure-from-Motion with Hybrid Features [[paper]](https://arxiv.org/pdf/2409.19811)
 - [2024 ECCV] Global Structure-from-Motion Revisited [[paper]](https://arxiv.org/pdf/2407.20219) [[code]](https://github.com/colmap/glomap)
@@ -177,7 +185,7 @@ If you believe this list is missing something or has factually inaccurate info, 
 ## Datasets and Benchmarks
 
 
-### In/Outdoor
+### Indoor and Outdoor
 - [2022 ECCV] [LaMAR](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670677.pdf) [[page]](https://lamar.ethz.ch/)
 - [2021 ICCV Workshop] [ETH-Microsoft](https://github.com/cvg/visloc-iccv2021)
 
@@ -194,7 +202,8 @@ If you believe this list is missing something or has factually inaccurate info, 
 
 
 ### Outdoor
-- [2022 ECCV] [Map-free Visual Relocalization](https://arxiv.org/pdf/2210.05494.pdf). [[page]](https://research.nianticlabs.com/mapfree-reloc-benchmark)
+- [2023 CVPR] [CADLoc](https://v-pnk.github.io/cadloc/) [[paper]](https://arxiv.org/abs/2304.05947)
+- [2022 ECCV] [Map-free Visual Relocalization](https://arxiv.org/pdf/2210.05494.pdf) [[page]](https://research.nianticlabs.com/mapfree-reloc-benchmark)
 - [2022 CVPR] [CrossLoc](https://github.com/TOPO-EPFL/CrossLoc-Benchmark-Datasets) [[paper]](https://arxiv.org/abs/2112.09081)
 - [2021 ICCV] [CrowdDriven](https://www.mapillary.com) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Jafarzadeh_CrowdDriven_A_New_Challenging_Dataset_for_Outdoor_Visual_Localization_ICCV_2021_paper.pdf)
 - [2020 ECCV Workshop] [Symphony Seasons](https://dream.georgiatech-metz.fr/datasets/symphony-lake-dataset-visual-benchmark/)
