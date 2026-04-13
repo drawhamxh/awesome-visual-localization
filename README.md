@@ -87,6 +87,7 @@ If you believe this list is missing something or has factually inaccurate info, 
 ## Feature Matching
 
 - [2025 CVPR] From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting [[paper]](https://arxiv.org/pdf/2503.19358) [[code]](https://github.com/zju3dv/STDLoc)
+- [2025 3DV] A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization [[paper]](https://arxiv.org/pdf/2502.20036) [[code]](https://github.com/YejunZhang/a2-gnn)
 - [2024 ECCV] Grounding Image Matching in 3D with MASt3R [[paper]](https://arxiv.org/pdf/2406.09756) [[code]](https://github.com/naver/mast3r)
 - [2024 CVPR] RoMa: Robust Dense Feature Matching [[paper]](https://arxiv.org/pdf/2305.15404) [[code]](https://github.com/Parskatt/RoMa)
 - [2024 CVPR] Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed [[paper]](https://arxiv.org/pdf/2403.04765) [[code]](https://github.com/zju3dv/EfficientLoFTR)
