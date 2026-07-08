@@ -21,7 +21,8 @@ If you believe this list is missing something or has factually inaccurate info, 
 
 ## Survey
 
-- [2025 arXiv] A Guide to Structureless Visual Localization [[paper]](https://arxiv.org/abs/2504.17636)
+- [2026 arXiv] ImLoc: Revisiting Visual Localization with Image-based Representation [[paper]](https://arxiv.org/abs/2601.04185)
+- [2026 IJCV] A Guide to Structureless Visual Localization [[paper]](https://arxiv.org/abs/2504.17636)
 
 
 ## Image Retrieval
